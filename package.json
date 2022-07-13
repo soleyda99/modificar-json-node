@@ -1,0 +1,17 @@
+{
+  "name": "modificar-json-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Soleyda De Sousa",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
